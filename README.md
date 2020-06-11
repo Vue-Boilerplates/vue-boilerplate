@@ -1,4 +1,4 @@
-# Vue Boilerplates : vue-boilerplate Base template (In progress)
+# Vue Boilerplates : vue-boilerplate
 
 > A vue.js project with Latest Vue + Lazy loading and code splitting
 
