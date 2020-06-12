@@ -1,5 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-disable no-unused-vars */
 const webpack = require("webpack");
 const MomentLocalesPlugin = require("moment-locales-webpack-plugin"); // for moment tree shaking locales
 const PreloadWebpackPlugin = require("@vue/preload-webpack-plugin");
