@@ -9,7 +9,7 @@
 import Navbar from "@/components/Navbar.vue";
 
 export default {
-  name: "Home",
+  name: "About",
   components: {
     Navbar,
   },
