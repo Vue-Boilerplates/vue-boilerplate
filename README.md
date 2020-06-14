@@ -78,6 +78,4 @@ npm run build
  :two_hearts: - [Become a sponser](https://opencollective.com/vue-boilerplates)  
 
 # License
-Released under the MIT [License](./LICENSE)  
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate.svg?type=small)](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate.svg?type=small)
+Released under the MIT [License](./LICENSE)
