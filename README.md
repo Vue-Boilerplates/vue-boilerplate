@@ -1,4 +1,6 @@
 # Vue Boilerplates : vue-boilerplate
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate?ref=badge_shield)
+
 
 > A vue.js project with Latest Vue + Lazy loading and code splitting
 
@@ -78,4 +80,6 @@ npm run build
  :two_hearts: - [Become a sponser](https://opencollective.com/vue-boilerplates)  
 
 # License
-Released under the MIT [License](./LICENSE)
+[MIT](LICENSE)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-boilerplate?ref=badge_large)
